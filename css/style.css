@@ -43,16 +43,13 @@ header nav ul li a:hover{
 			color:#9E9E9E;
 }
 
-
-
-
-
-
-
 #intro{}
 #intro h2{font-family: 'Montserrat', sans-serif;
 		text-transform: uppercase;
 		text-align: center;
 		line-height: 10;
-		color:white;
+		color:black;
+		background-color: white;
+	    opacity: 0.5;
+	    filter: Alpha(opacity=50);
 }
