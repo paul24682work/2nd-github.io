@@ -1,0 +1,58 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	background: url("../img/img1.jpg");
+	background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+
+}
+
+a, a:hover, a:focus, a:active {text-decoration: none; outline: none;}
+
+header{
+		background-color: #212121;
+		overflow: hidden;
+		font-family: 'Montserrat', sans-serif;
+		text-transform: uppercase;
+	}
+header a{
+		color:white;
+		display:block;
+}
+header a:hover{color: #ccc;}
+
+header h1 a{color:white;}
+header h1{
+		font-weight: normal;
+		margin:0;
+		float:left;
+}
+header nav{float:right}
+header nav ul{margin:0; padding: 0;}
+header nav ul li{
+				margin:0; 
+				padding:0; 
+				list-style: none;
+				display: inline-block;
+			}
+header nav ul li a{
+			padding:10px;
+}
+header nav ul li a:hover{
+			background-color: #333;
+			color:#9E9E9E;
+}
+
+
+
+
+
+
+
+#intro{}
+#intro h2{font-family: 'Montserrat', sans-serif;
+		text-transform: uppercase;
+		text-align: center;
+		line-height: 10;
+		color:white;
+}
